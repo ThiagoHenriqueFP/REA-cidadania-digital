@@ -91,9 +91,6 @@ export default function App() {
 
       <footer className="text-center p-6 text-slate-500 text-sm mt-10 border-t border-slate-800">
         <p>Desenvolvido como Recurso Educacional Aberto (REA)</p>
-        <p>
-          Baseado na proposta de Valentina Silva e Thiago Henrique - Unidade I
-        </p>
       </footer>
     </div>
   );
